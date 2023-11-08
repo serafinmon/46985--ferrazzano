@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;400;600&family=Roboto+Serif:ital,opsz,wght@1,8..144,200&family=Roboto:ital,wght@0,100;1,500&family=Tilt+Prism&display=swap');
+
+
+/*header*/
+
+.tamLogo {
+    width: 150px;
+}
+
+.fuentesNav {
+    font-size: 24px;
+    padding: 10px;
+}
+
+.encabezado {
+    /*background-color: bisque;*/
+    border-top: solid 20px pink;
+}
+
+a {
+    text-transform: uppercase;
+    color: rgb(144, 151, 153);
+}
+
+a:hover {
+    background-color: lightblue;
+    color: bisque!important;
+}
+
+
+
+/* Tratamientos*/
+
+.tituloTratamientos{
+    background-color: rgb(231, 204, 208);
+    color: rgb(151, 142, 149);
+    text-align: center;
+    font-weight: bold;
+    padding: 40px;
+}
+
+.tituloTratamientos h2 {
+    font-size: 35px;
+}
+
+.colorBtn{
+    background-color: rgb(9, 136, 221);
+    color: antiquewhite;
+    font-size: 18px;
+}
+
+.colorBtn:hover{
+    background-color: rgb(107, 127, 240);
+    color: rgb(0, 0, 0);
+}
+
+/*footer*/
+
+footer{
+    background-color: pink;
+    color: antiquewhite;
+}
+
+footer ul li a{
+    color: rgb(255, 255, 255);
+}
